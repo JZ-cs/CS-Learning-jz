@@ -1,2 +1,2 @@
 # CS-Learning-jz
-Learning notes which now is EMPTY!
+Learning notes which now are EMPTY!
